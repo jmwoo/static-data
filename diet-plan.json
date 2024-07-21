@@ -154,7 +154,7 @@
 					"name": "Breakfast",
 					"foodAmounts": [
 						{
-							"key": "1-percent-milk",
+							"key": "skim-milk",
 							"amount": 1
 						},
 						{
