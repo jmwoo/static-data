@@ -155,11 +155,11 @@
 					"foodAmounts": [
 						{
 							"key": "skim-milk",
-							"amount": 1
+							"amount": 1.25
 						},
 						{
 							"key": "oats",
-							"amount": 0.75
+							"amount": 0.67
 						},
 						{
 							"key": "protein-powder",
